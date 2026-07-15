@@ -1,0 +1,6 @@
+colorama
+opencv-python
+mouse
+numpy
+beautifulsoup4
+scipy
